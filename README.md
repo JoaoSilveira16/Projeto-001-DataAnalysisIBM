@@ -56,6 +56,26 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
+## 📊 Visualizações
+
+### Taxa de Rotatividade
+
+![Taxa de Rotatividade](images/01.png)
+
+### Salário vs Rotatividade
+
+![Salário vs Rotatividade](images/02.png)
+
+### Satisfação no Trabalho vs Rotatividade
+
+![Job Satisfaction](images/03.png)
+
+### Work Life Balance vs Rotatividade
+
+![Work Life Balance](images/04.png)
+
+---
+
 📈 **Principais Insights**
 
 A análise exploratória permitiu identificar alguns fatores associados à rotatividade de funcionários:
